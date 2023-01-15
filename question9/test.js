@@ -1,4 +1,4 @@
-const replaceChar = require("./question9")
+const replaceChar = require("./replaceCharacter")
 
 describe('Tests for question 5',()=>{
     test('test case one',()=>{
