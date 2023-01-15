@@ -21,4 +21,5 @@ describe('Tests for question 2',()=>{
         expect(checkDigits(775)).toBeFalsy()
     })
 }
+         
 )
