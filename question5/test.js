@@ -1,4 +1,4 @@
-const isLeapYear = require("./question5")
+const isLeapYear = require("./isLeapYear")
 
 describe('Tests for question 5',()=>{
     test('test case one',()=>{
