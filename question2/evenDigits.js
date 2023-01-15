@@ -45,6 +45,7 @@ const checkDigits = (number) =>
     return true;
 
 }
+
 checkDigits(22)
 
 module.exports = checkDigits
