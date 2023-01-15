@@ -1,4 +1,4 @@
-const endsWithScript = require("./question6")
+const endsWithScript = require("./endsWithScript")
 
 describe('Tests for question 5',()=>{
     test('test case one',()=>{
