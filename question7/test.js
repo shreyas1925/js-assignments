@@ -1,4 +1,4 @@
-const conCatWithoutFirstChar = require("./question7")
+const conCatWithoutFirstChar = require("./conCatWithoutFirstChar")
 
 describe('Tests for question 5',()=>{
     test('test case one',()=>{
