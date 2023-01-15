@@ -1,3 +1,4 @@
+const prompt = require("prompt-sync")();
 function largestEven(nums)
 {
     let maxi = -1
@@ -12,6 +13,8 @@ function largestEven(nums)
 
     return maxi
 }
+
+// arrow function which perfoms the same task
 
 const largesteven = (nums) => {
 
@@ -28,6 +31,8 @@ const largesteven = (nums) => {
     return maxi
 }
 
+// taking input from user
+
 let numbers = []
 
 let size = prompt("Enter the size of array")
@@ -39,3 +44,5 @@ for(let i=0;i<size;i++)
 
 console.log(largestEven(numbers))
 console.log(largesteven(numbers))
+
+module.exports = largestEven
