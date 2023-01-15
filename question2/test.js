@@ -1,4 +1,4 @@
-const checkDigits = require("./question2")
+const checkDigits = require("./evenDigits")
 
 describe('Tests for question 2',()=>{
     test('checking every digit in number are same',()=>{
