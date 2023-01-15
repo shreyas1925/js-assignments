@@ -1,4 +1,4 @@
-const numberOfVowels = require("./question8")
+const numberOfVowels = require("./numberOfVowels")
 
 describe('Tests for question 5',()=>{
     test('test case one',()=>{
