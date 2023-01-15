@@ -1,4 +1,4 @@
-const largestEven = require("./question1")
+const largestEven = require("./largestEven")
 
 describe('Tests for question 1',()=>{
     test('finding largest even number',()=>{
@@ -24,6 +24,6 @@ describe('Tests for question 1',()=>{
         let res = largestEven(arr)
         expect(res).toBe(0)
     })
-}
+}        
 )
 
