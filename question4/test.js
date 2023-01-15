@@ -1,4 +1,4 @@
-const longestString = require("./question4")
+const longestString = require("./longestString")
 
 describe('Tests for question 4',()=>{
     test('test case one',()=>{
