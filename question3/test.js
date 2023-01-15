@@ -1,4 +1,4 @@
-const letterCases = require("./question3")
+const letterCases = require("./letterCase")
 
 describe('Tests for question 3',()=>{
     test('test case one',()=>{
